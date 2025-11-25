@@ -1,0 +1,52 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+instance/
+.env
+.env.*
+
+# Virtual Environment
+venv/
+ENV/
+.venv/
+
+# Streamlit
+.streamlit/
+logs/
+
+# Cache
+.cache/
+model_cache/
+huggingface/
+datasets/
+cache/
+
+# Models
+*.bin
+*.pt
+*.ckpt
+
+# Data
+*.csv
+*.jsonl
+uploads/
+saved_models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
