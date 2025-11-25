@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "task": "summarization",
+      "model_id": "t5-small",
+      "path": "/Users/ajithreddychittireddy/AJITH REDDY/INTERSHIP/INFOSYS-SB/PROJECT/TextMorph-Advanced-Text-Summarization-and-Paraphrasing/training_pipeline/datasets/processed/model_outputs/summarization_t5-small_20251104_165531",
+      "timestamp": "2025-11-04T17:57:08.913342",
+      "train_samples": 500,
+      "notes": "length=short complexity=standard"
+    },
+    {
+      "task": "summarization",
+      "model_id": "google/flan-t5-small",
+      "path": "/Users/ajithreddychittireddy/AJITH REDDY/INTERSHIP/INFOSYS-SB/PROJECT/TextMorph-Advanced-Text-Summarization-and-Paraphrasing/training_pipeline/datasets/processed/model_outputs/summarization_google_flan-t5-small_20251104_175708",
+      "timestamp": "2025-11-04T19:04:04.941045",
+      "train_samples": 500,
+      "notes": "length=short complexity=standard"
+    },
+    {
+      "task": "summarization",
+      "model_id": "facebook/bart-base",
+      "path": "/Users/ajithreddychittireddy/AJITH REDDY/INTERSHIP/INFOSYS-SB/PROJECT/TextMorph-Advanced-Text-Summarization-and-Paraphrasing/training_pipeline/datasets/processed/model_outputs/summarization_facebook_bart-base_20251104_190405",
+      "timestamp": "2025-11-04T22:03:04.458228",
+      "train_samples": 500,
+      "notes": "length=short complexity=standard"
+    },
+    {
+      "task": "paraphrase",
+      "model_id": "t5-small",
+      "path": "/Users/ajithreddychittireddy/AJITH REDDY/INTERSHIP/INFOSYS-SB/PROJECT/TextMorph-Advanced-Text-Summarization-and-Paraphrasing/training_pipeline/datasets/processed/model_outputs/paraphrase_t5-small_20251105_062028",
+      "timestamp": "2025-11-05T06:48:40.344506",
+      "train_samples": 200,
+      "notes": "length=short complexity=simple"
+    },
+    {
+      "task": "paraphrase",
+      "model_id": "google/flan-t5-small",
+      "path": "/Users/ajithreddychittireddy/AJITH REDDY/INTERSHIP/INFOSYS-SB/PROJECT/TextMorph-Advanced-Text-Summarization-and-Paraphrasing/training_pipeline/datasets/processed/model_outputs/paraphrase_google_flan-t5-small_20251105_065026",
+      "timestamp": "2025-11-05T07:17:50.121905",
+      "train_samples": 200,
+      "notes": "length=short complexity=standard"
+    },
+    {
+      "task": "paraphrase",
+      "model_id": "facebook/bart-base",
+      "path": "/Users/ajithreddychittireddy/AJITH REDDY/INTERSHIP/INFOSYS-SB/PROJECT/TextMorph-Advanced-Text-Summarization-and-Paraphrasing/training_pipeline/datasets/processed/model_outputs/paraphrase_facebook_bart-base_20251105_071833",
+      "timestamp": "2025-11-05T08:55:37.439686",
+      "train_samples": 200,
+      "notes": "length=short complexity=creative"
+    }
+  ]
+}
