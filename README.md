@@ -113,7 +113,7 @@ README.md
 
 ### **1️⃣ Clone the Repository**
 ```
-git clone https://github.com/<your-username>/TextMorph.git
+git clone https://github.com/ajithreddych/TextMorph-Advanced-Text-Summarization-and-Paraphrasing.git
 cd TextMorph
 ```
 
